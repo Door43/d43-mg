@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mg:home|Door43 (mg)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[mg:obs|Open Bible Stories (mg)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mg|d43-mg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mg/archive/master.zip|d43-mg.zip]]
+
+**Recent Changes**
+{{changes>ns = mg}}
+
+**Latest Status**
+{{page>en:uwadmin:mg:obs:status}}
+
